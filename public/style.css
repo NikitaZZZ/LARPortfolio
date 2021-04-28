@@ -1,0 +1,37 @@
+::selection {
+  background: rgb(86, 244, 93);
+  color: #fff;
+}
+
+body { background: url("./background.jpg"); }
+
+#youtube { color: #FF0000; }
+
+#vk { color: #4A76A8; }
+
+#instagram { color: #EB3F59; }
+
+#name-developer-1, #name-developer-2 { margin-top: 4%; }
+
+#infinitytests-dropdown:hover, #simulator-dropdown:hover,
+#tfot-dropdown:hover { cursor: pointer; }
+
+#main { margin-bottom: 1%; }
+
+#developers { margin-bottom: 0; }
+
+#details-itests { border-color: #BD57F4; }
+
+#try-itests { border-color: #6666E2; }
+
+#details-itests:hover {
+  background-color: #BD57F4;
+  color: #fff;
+}
+
+#try-itests:hover {
+  background-color: #6666E2;
+  color: #fff; 
+}
+
+#try-tfot { border: 0.5px solid silver; }
