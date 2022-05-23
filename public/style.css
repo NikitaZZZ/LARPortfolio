@@ -35,3 +35,6 @@ body { background: url("./background.jpg"); }
 }
 
 #try-tfot { border: 0.5px solid silver; }
+
+img { width: 300px; }
+.link-project { color: rgb(144, 144, 236); }
